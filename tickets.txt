@@ -1,0 +1,39 @@
+Austin
+Houston
+E
+109.99
+
+Austin
+New York
+B
+352
+
+Washington D.C.
+Seattle
+PE
+139.2
+
+Austin
+New York
+E
+94
+
+Dallas
+Austin
+1st
+93.5
+
+Washington D.C.
+Seattle
+E
+110
+
+Chicago
+Las Vegas
+B
+149
+
+Austin
+New York
+1st
+210
