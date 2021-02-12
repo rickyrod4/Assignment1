@@ -1,7 +1,16 @@
 #include <iostream>
 #include <fstream>
+#include <string>
+
 
 using namespace std;
+
+struct Flight{
+    string departure;
+    string arrival;
+    string type;
+    float price;
+};
 
 //CS 2308 Assignment 1
 
@@ -14,7 +23,8 @@ int main(){
         cout << "error opening file"<< endl;
         return(0);
     }
-    
+
+
     int choice;
     while(choice !=4){
         cout << "Select the actions:" << endl;
@@ -23,6 +33,7 @@ int main(){
         cout << "3) Find a flight with the best distance to price ratio" << endl;
         cout << "4) Exit the program" << endl;
         cin >> choice;
+        
     }
 
 
